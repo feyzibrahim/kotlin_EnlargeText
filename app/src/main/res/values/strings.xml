@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Enlarge Text</string>
+    <string name="e">E</string>
+    <string name="arrow">arrow</string>
+    <string name="text">Enter Your Text Here</string>
+    <string name="choose_a_color">Choose a color</string>
+    <string name="show">Show</string>
+
+
+    <string name="admobId">ca-app-pub-9184680471174773~3947027524</string>
+    <string name="bannerId">ca-app-pub-9184680471174773/3173001905</string>
+    <string name="interId">ca-app-pub-9184680471174773/9728524167</string>
+    <string name="only_10_letters_supported">Only 10 Letters Supported</string>
+</resources>
